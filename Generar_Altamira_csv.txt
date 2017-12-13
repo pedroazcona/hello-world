@@ -1,0 +1,3 @@
+echo Convirtiendo archivos altamira de xml a csv
+cd C:\Users\poaa\Documents\Python Scripts\
+python Altamira_extraction_csv.py
